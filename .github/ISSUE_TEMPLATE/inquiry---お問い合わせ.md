@@ -2,7 +2,7 @@
 name: Inquiry | お問い合わせ
 about: Please contact me with this form | こちらのフォームからお問い合わせください
 title: Inquiry | お問い合わせ
-labels: documentation
+labels: inquiry
 assignees: su3-hokkaido
 
 ---
